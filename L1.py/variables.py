@@ -8,7 +8,7 @@ a= None  #none
 age2 = age
 
 #priniting
-print(name, age, hobbies, height)
+print(name, age2, hobbies, height)
 
 
 #data types

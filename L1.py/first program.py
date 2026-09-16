@@ -1,2 +1,2 @@
-print("rohith kumar" "my age is 20" )
+print('rohith kumar my age is 20')
 
