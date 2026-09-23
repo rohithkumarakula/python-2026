@@ -23,3 +23,8 @@ print(type(a))
 print('rohith')
 print("rohith")
 print('''rohith''')
+
+#multiple variable
+
+name, city, age = 'rohith', "andhra", 21
+print(name, city, age)

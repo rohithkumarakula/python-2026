@@ -9,10 +9,17 @@
 
 
 
-a = int(input("enter a value: "))
+'''a = int(input("enter a value: "))
 b = int(input("enter b value: "))
 
 if a >= b:
     print(True)
 else:
-    print(False)
+    print(False)'''
+    
+    
+
+
+side = int(input("enter side of a square: "))
+area = side * side 
+print( area)
